@@ -1,0 +1,6 @@
+# Agent Studio requirements with enhanced features
+pyyaml>=6.0
+python-dotenv>=1.0.0
+agno>=0.1.0
+loguru>=0.7.0
+requests>=2.31.0
